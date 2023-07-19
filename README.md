@@ -1,6 +1,6 @@
 <pre>
-# Crop Weed Prediction
-## Introduction
+<h1>Crop Weed Prediction</h1>
+<h3>Introduction</h3>
 Crop Weed Prediction is a project focused on developing an advanced solution for predicting and managing weed occurrences in agricultural fields. Weeds pose a significant challenge to crop cultivation, leading to reduced crop yields and increased reliance on chemical herbicides. By leveraging machine learning and deep learning techniques, this project aims to provide accurate predictions of weed occurrences and empower farmers with valuable insights for effective weed management.
 
 Features
